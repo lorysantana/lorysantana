@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Lory and I'm a Computer Science student from Brazil! 😸</h2>
+<h2 align="center">Hi 👋! My name is Lory and I'm a Software Engineer from Brazil! 😸</h2>
 
 ###
 
